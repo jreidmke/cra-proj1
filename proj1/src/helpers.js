@@ -11,3 +11,5 @@ const Remove = (arr, item) => {
     }
     return undefined;
 }
+
+export {Choice, Remove};
